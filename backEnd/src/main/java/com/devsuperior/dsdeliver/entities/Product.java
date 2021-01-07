@@ -106,6 +106,11 @@ public class Product implements Serializable {
 			return false;
 		return true;
 	}
+
+	public String getDescription() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 		
 	
 	
